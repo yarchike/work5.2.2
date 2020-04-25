@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">work 5.2.2</string>
+
+    <string name="login_text">Login</string>
+    <string name="password_text">Password</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="registration_btn">REGISTRATION</string>
+
+    <string name="no_login">Не заполненно поле логин</string>
+    <string name="no_pass">Не заполненно поле пароль</string>
+    <string name="have_access">Вы успешно зашли</string>есть доступ
+    <string name="no_access">Не верный логин или пароль</string>
+    <string name="registration_successful">Регистрация прошла успешно</string>
+    <string name="no_reg">Нету зарегестрированых пользователей</string>
+    <string name="memory_ch">Хранить логин во внешнем хранилище</string>
+
+
+</resources>
